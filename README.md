@@ -1,5 +1,6 @@
-# Othello Multi-joueurs
+# Othello multiplayer
 
+The project has been inspired from [Traversy Media](https://www.youtube.com/watch?v=jD7FnbI76Hg) who proposed a tutorial to create a real time chat. The code has then be adapted to create an online ohtello game.
 
 ## Developers
 Denis Bakhoum
